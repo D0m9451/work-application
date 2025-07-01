@@ -1,0 +1,10 @@
+C:\Users\Domin\Downloads\ComputerScience\Programs\work-application\Decoder\target\debug\deps\derive_more-97db2d7001d26fe6.dll: C:\Users\Domin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\lib.rs C:\Users\Domin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\syn_compat.rs C:\Users\Domin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\utils.rs C:\Users\Domin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\add_assign_like.rs C:\Users\Domin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\add_helpers.rs C:\Users\Domin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\add_like.rs
+
+C:\Users\Domin\Downloads\ComputerScience\Programs\work-application\Decoder\target\debug\deps\derive_more-97db2d7001d26fe6.d: C:\Users\Domin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\lib.rs C:\Users\Domin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\syn_compat.rs C:\Users\Domin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\utils.rs C:\Users\Domin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\add_assign_like.rs C:\Users\Domin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\add_helpers.rs C:\Users\Domin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\add_like.rs
+
+C:\Users\Domin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\lib.rs:
+C:\Users\Domin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\syn_compat.rs:
+C:\Users\Domin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\utils.rs:
+C:\Users\Domin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\add_assign_like.rs:
+C:\Users\Domin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\add_helpers.rs:
+C:\Users\Domin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\add_like.rs:

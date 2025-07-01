@@ -1,0 +1,7 @@
+C:\Users\Domin\Downloads\ComputerScience\Programs\work-application\Decoder\target\debug\deps\libstring_cache_codegen-d4a1563dddb086df.rmeta: C:\Users\Domin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\string_cache_codegen-0.5.4\lib.rs
+
+C:\Users\Domin\Downloads\ComputerScience\Programs\work-application\Decoder\target\debug\deps\libstring_cache_codegen-d4a1563dddb086df.rlib: C:\Users\Domin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\string_cache_codegen-0.5.4\lib.rs
+
+C:\Users\Domin\Downloads\ComputerScience\Programs\work-application\Decoder\target\debug\deps\string_cache_codegen-d4a1563dddb086df.d: C:\Users\Domin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\string_cache_codegen-0.5.4\lib.rs
+
+C:\Users\Domin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\string_cache_codegen-0.5.4\lib.rs:
